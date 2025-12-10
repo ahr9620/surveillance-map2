@@ -171,7 +171,8 @@ body {
     font-size: 12px;
 }
 
-/* small static control for Asset 12 icon */
+/* key */
+
 .asset12-control {
     display: flex;
     align-items: center;
