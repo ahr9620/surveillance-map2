@@ -187,6 +187,10 @@ fetch('IST.geojson')
             iconSize: [10, 10],
         });
 
+
+   
+
+
         // add IST features to the map
         geojson.features.forEach((feat) => {
             if (feat.geometry && feat.geometry.type === 'Point') {
@@ -198,6 +202,5 @@ fetch('IST.geojson')
             }
         });
 
-    // IST block ends here; cameras fetch is handled globally below
     });
 
