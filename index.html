@@ -1,0 +1,79 @@
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Surveillance Map</title>
+    <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+        integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+    <link rel="stylesheet" href="style.css">
+
+    <!-- the things I have to do to use inter -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&display=swap" rel="stylesheet">
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+        integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+</head>
+
+<body>
+
+    <div class="container">
+        <div class="left">
+            <div id="map"></div>
+        </div>
+        <div class="right" id="sidebar">
+            <h1 class="title">Border Surveillance Map</h1>
+
+            <div class="image-grid panel" id="image-grid" aria-label="Gallery grid">
+                <figure class="grid-figure grid-a">
+                    <img src="images/AERO.png" alt="AERO" class="grid-image" />
+                    <figcaption>Aerostat — 236 km</figcaption>
+                </figure>
+                <figure class="grid-figure grid-b">
+                    <img src="images/IST1.png" alt="IST" class="grid-image" />
+                    <figcaption>IST — 30 km</figcaption>
+                </figure>
+                <figure class="grid-figure grid-c">
+                    <img src="images/SENT.png" alt="SENT" class="grid-image" />
+                    <figcaption>Anruil Sentry — 3 km</figcaption>
+                </figure>
+                <div class="grid-figure grid-d">
+                    <div class="grid-info">
+                        <h3>Notes</h3>
+                        <p>This platform collects user-submitted sightings of border-related technologies. By
+                            crowdsourcing data collection, we can document a wider area and build a more complete
+                            picture of surveillance deployments. The map displays two main types of information: markers
+                            indicating different device or camera types, and an additional layer showing their estimated
+                            coverage ranges. Use the map to explore known deployments, submit new sightings, and help
+                            maintain an up-to-date shared dataset.</p>
+                    </div>
+                </div>
+            </div>
+            <p class="project-desc">A collaborative map to crowdsource data for new border technologies appearing in our
+                communities.</p>
+        </div>
+    </div>
+
+    <!-- popup template for submit form -->
+    <template id="popup-template">
+        <div class="popup-submit">
+            <div class="popup-title">Submit new camera</div>
+            <div class="popup-coords">Lat: <span class="lat"></span></div>
+            <div class="popup-coords">Lng: <span class="lng"></span></div>
+            <div class="popup-actions">
+                <label class="attach-label">
+                    <input type="file" accept="image/*" id="popup-attach" class="popup-attach" />
+                    <span class="attach-text btn">Attach</span>
+                </label>
+                <button id="popup-finalize" class="btn">Submit</button>
+            </div>
+        </div>
+    </template>
+
+    <script src="https://cdn.jsdelivr.net/npm/@turf/turf@7/turf.min.js"></script>
+    <script src="script.js"></script>
+
+</body>
+
+</html>

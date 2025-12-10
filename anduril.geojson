@@ -1,0 +1,4733 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower022",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "New Mexico",
+        "Sector": "El Paso Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "EPT",
+        "Station/AOR": "Santa Teresa Station",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.5828784,
+          31.78961851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower031",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Del Rio Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "DRT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.2895883,
+          29.69994723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower059",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "California",
+        "Sector": "San Diego Sector",
+        "State of Sector": "California",
+        "Sector Acronym": "SDC",
+        "Station/AOR": "Brown Field Station",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.754769,
+          32.60424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower060",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "California",
+        "Sector": "San Diego Sector",
+        "State of Sector": "California",
+        "Sector Acronym": "SDC",
+        "Station/AOR": "Brown Field Station",
+        "Vendor": "Anduril",
+        "Notes": "Name/Station changed"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.64016,
+          32.58383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower061",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "California",
+        "Sector": "San Diego Sector",
+        "State of Sector": "California",
+        "Sector Acronym": "SDC",
+        "Station/AOR": "Brown Field Station",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.816583,
+          32.598807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower062",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "California",
+        "Sector": "San Diego Sector",
+        "State of Sector": "California",
+        "Sector Acronym": "SDC",
+        "Station/AOR": "Brown Field Station",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.76275,
+          32.5761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower063",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "California",
+        "Sector": "San Diego Sector",
+        "State of Sector": "California",
+        "Sector Acronym": "SDC",
+        "Station/AOR": "Campo Station",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.4624704,
+          32.60058452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower064",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "California",
+        "Sector": "San Diego Sector",
+        "State of Sector": "California",
+        "Sector Acronym": "SDC",
+        "Station/AOR": "Campo Station",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.38788,
+          32.61222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower065",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "California",
+        "Sector": "San Diego Sector",
+        "State of Sector": "California",
+        "Sector Acronym": "SDC",
+        "Station/AOR": "Campo Station",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.32872,
+          32.60592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower141",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "New Mexico",
+        "Sector": "El Paso Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "EPT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.985117,
+          31.830322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower145",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Laredo Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "LRT",
+        "Station/AOR": "Laredo South Station",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.49489774,
+          27.43839467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower153",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Laredo Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "LRT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": "Public park/middle school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.53285115,
+          27.58769904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower159",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Laredo Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "LRT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.52713789,
+          27.5784016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower160",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Laredo Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "LRT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.53589311,
+          27.59850239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower164",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Laredo Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "LRT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.521493,
+          27.543382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower165",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Laredo Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "LRT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.495434,
+          27.498792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower169",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "California",
+        "Sector": "San Diego Sector",
+        "State of Sector": "California",
+        "Sector Acronym": "SDC",
+        "Station/AOR": "Campo Station",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.5014533,
+          32.58946085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower170",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "California",
+        "Sector": "San Diego Sector",
+        "State of Sector": "California",
+        "Sector Acronym": "SDC",
+        "Station/AOR": "Campo Station",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.4787371,
+          32.58900088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower171",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "California",
+        "Sector": "San Diego Sector",
+        "State of Sector": "California",
+        "Sector Acronym": "SDC",
+        "Station/AOR": "Campo Station",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.4485007,
+          32.59194663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower173",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "California",
+        "Sector": "San Diego Sector",
+        "State of Sector": "California",
+        "Sector Acronym": "SDC",
+        "Station/AOR": "Imperial Beach Station",
+        "Vendor": "Anduril",
+        "Notes": "Visually confirmed on ground."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1228096,
+          32.5348293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower177",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "California",
+        "Sector": "San Diego Sector",
+        "State of Sector": "California",
+        "Sector Acronym": "SDC",
+        "Station/AOR": "Imperial Beach Station",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.8240978,
+          32.59636541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower185",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "California",
+        "Sector": "San Diego Sector",
+        "State of Sector": "California",
+        "Sector Acronym": "SDC",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.893215,
+          32.5759447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower186",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "California",
+        "Sector": "San Diego Sector",
+        "State of Sector": "California",
+        "Sector Acronym": "SDC",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.8253666,
+          32.5629507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower209",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "California",
+        "Sector": "El Centro Sector",
+        "State of Sector": "California",
+        "Sector Acronym": "ELC",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.7433199,
+          32.6782021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower235",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Laredo Sector",
+        "State of Sector": "",
+        "Sector Acronym": "LRT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.85918821,
+          27.852664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower247",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Big Bend Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "BBT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.3131375,
+          29.54631124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower248",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "California",
+        "Sector": "San Diego Sector",
+        "State of Sector": "California",
+        "Sector Acronym": "SDC",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2717837,
+          32.97876961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower249",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Big Bend Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "BBT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.3839503,
+          29.55581653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower250",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Big Bend Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "BBT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.2870526,
+          29.52127778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower254",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "California",
+        "Sector": "San Diego Sector",
+        "State of Sector": "California",
+        "Sector Acronym": "SDC",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.5405064,
+          32.58900803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower255",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "California",
+        "Sector": "San Diego Sector",
+        "State of Sector": "California",
+        "Sector Acronym": "SDC",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.5683184,
+          32.58319476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower256",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "California",
+        "Sector": "San Diego Sector",
+        "State of Sector": "California",
+        "Sector Acronym": "SDC",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.1643297,
+          32.62062348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower257",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "California",
+        "Sector": "San Diego Sector",
+        "State of Sector": "California",
+        "Sector Acronym": "SDC",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.1391549,
+          32.63242686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower258",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "California",
+        "Sector": "San Diego Sector",
+        "State of Sector": "California",
+        "Sector Acronym": "SDC",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.8160578,
+          32.65532666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower259",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "California",
+        "Sector": "San Diego Sector",
+        "State of Sector": "California",
+        "Sector Acronym": "SDC",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.5836086,
+          32.59193778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower260",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Big Bend Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "BBT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.4236337,
+          29.59704093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower295",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Big Bend Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "BBT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.4464363,
+          29.61729103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower299",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Laredo Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "LRT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.7318405,
+          27.7190415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower303",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Laredo Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "LRT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.8030606,
+          27.7687411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower310",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Del Rio Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "DRT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.524148,
+          28.820482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower311",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Big Bend Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "BBT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.6231851,
+          30.63813865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower312",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Laredo Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "LRT",
+        "Station/AOR": "Laredo West Station",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.71548747,
+          27.69869732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower313",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Laredo Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "LRT",
+        "Station/AOR": "Laredo West Station",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.77745617,
+          27.76816496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower314",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Laredo Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "LRT",
+        "Station/AOR": "Laredo West Station",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.7512188,
+          27.7464807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower315",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Laredo Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "LRT",
+        "Station/AOR": "Laredo West Station",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.80869537,
+          27.78086616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower316",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Del Rio Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "DRT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.352045,
+          28.576579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower319",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Del Rio Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "DRT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.326491,
+          28.544799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower322",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Laredo Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "LRT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.420102,
+          27.035797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower323",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "California",
+        "Sector": "San Diego Sector",
+        "State of Sector": "California",
+        "Sector Acronym": "SDC",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.2262831,
+          32.61946865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower325",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "California",
+        "Sector": "San Diego Sector",
+        "State of Sector": "California",
+        "Sector Acronym": "SDC",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.281439,
+          32.6410104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower326",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "California",
+        "Sector": "San Diego Sector",
+        "State of Sector": "California",
+        "Sector Acronym": "SDC",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.3046796,
+          32.6564404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower327",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Laredo Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "LRT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.8594631,
+          27.8050885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower328",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Laredo Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "LRT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.86962303,
+          27.81668263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower336",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Laredo Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "LRT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.78075018,
+          27.73775069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower338",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "California",
+        "Sector": "San Diego Sector",
+        "State of Sector": "California",
+        "Sector Acronym": "SDC",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.588679,
+          32.585426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower339",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "California",
+        "Sector": "San Diego Sector",
+        "State of Sector": "California",
+        "Sector Acronym": "SDC",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.8494138,
+          32.6302453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower342",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "California",
+        "Sector": "San Diego Sector",
+        "State of Sector": "California",
+        "Sector Acronym": "SDC",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.609662,
+          32.599569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower343",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Del Rio Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "DRT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.332276,
+          28.498065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower344",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Del Rio Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "DRT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.334965,
+          28.436158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower349",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "California",
+        "Sector": "San Diego Sector",
+        "State of Sector": "California",
+        "Sector Acronym": "SDC",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.8418574,
+          32.5748048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower351",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "California",
+        "Sector": "San Diego Sector",
+        "State of Sector": "California",
+        "Sector Acronym": "SDC",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.3561017,
+          32.61410324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower352",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "California",
+        "Sector": "San Diego Sector",
+        "State of Sector": "California",
+        "Sector Acronym": "SDC",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.4488605,
+          32.6098603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower357",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Laredo Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "LRT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.4880122,
+          27.28492062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower361",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "California",
+        "Sector": "El Centro Sector",
+        "State of Sector": "California",
+        "Sector Acronym": "ELC",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.789081,
+          32.677827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower362",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "California",
+        "Sector": "El Centro Sector",
+        "State of Sector": "California",
+        "Sector Acronym": "ELC",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.8439193,
+          32.65829781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower365",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "California",
+        "Sector": "El Centro Sector",
+        "State of Sector": "California",
+        "Sector Acronym": "ELC",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.9149854,
+          32.68527123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower366",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "California",
+        "Sector": "El Centro Sector",
+        "State of Sector": "California",
+        "Sector Acronym": "ELC",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.9356494,
+          32.69990593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower367",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "California",
+        "Sector": "San Diego Sector",
+        "State of Sector": "California",
+        "Sector Acronym": "SDC",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.2114782,
+          32.61178378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower368",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "California",
+        "Sector": "San Diego Sector",
+        "State of Sector": "California",
+        "Sector Acronym": "SDC",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.5173044,
+          32.59199715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower369",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "California",
+        "Sector": "San Diego Sector",
+        "State of Sector": "California",
+        "Sector Acronym": "SDC",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.2320105,
+          32.61788999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower370",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "California",
+        "Sector": "San Diego Sector",
+        "State of Sector": "California",
+        "Sector Acronym": "SDC",
+        "Station/AOR": "Campo Station",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.4773956,
+          32.6092046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower381",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Arizona",
+        "Sector": "Tucson Sector",
+        "State of Sector": "Arizona",
+        "Sector Acronym": "TCA",
+        "Station/AOR": "Douglas Station",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.7412915,
+          31.36102909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower382",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "New Mexico",
+        "Sector": "El Paso Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "EPT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.4681363,
+          31.80840681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower383",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Big Bend Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "BBT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.9532849,
+          29.9375094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower384",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "New Mexico",
+        "Sector": "El Paso Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "EPT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.7338823,
+          31.79874311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower391",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Del Rio Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "DRT",
+        "Station/AOR": "Del Rio Station",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.870652,
+          29.345168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower392",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Del Rio Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "DRT",
+        "Station/AOR": "Del Rio Station",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.558578,
+          28.89337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower394",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Rio Grande Valley Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "RGV",
+        "Station/AOR": "McAllen Station",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.33368663,
+          26.1679762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower398",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Del Rio Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "DRT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.331149,
+          29.699178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower399",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Rio Grande Valley Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "RGV",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.977583,
+          26.401306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower400",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Rio Grande Valley Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "RGV",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.85181357,
+          26.37534127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower401",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Del Rio Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "DRT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.37812,
+          29.733597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower402",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Del Rio Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "DRT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.9160892,
+          29.91724034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower403",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Rio Grande Valley Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "RGV",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": "Near playground in Roma Municipal Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.001947,
+          26.39639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower404",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Rio Grande Valley Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "RGV",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.98622749,
+          26.39647202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower406",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Big Bend Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "BBT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": "Sector is an approximation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.1663848,
+          30.00814565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower408",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Del Rio Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "DRT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.1628043,
+          29.65738991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower409",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Big Bend Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "BBT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": "Sector is an approximation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.0012696,
+          29.95009717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower410",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Big Bend Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "BBT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": "Sector is an approximation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.8067802,
+          29.8903701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower411",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Laredo Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "LRT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.729029,
+          27.737965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower412",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "New Mexico",
+        "Sector": "El Paso Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "EPT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.9065078,
+          31.79845044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower415",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Rio Grande Valley Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "RGV",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.20651723,
+          25.96728218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower417",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Big Bend Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "BBT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.7925265,
+          30.89275708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower418",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Rio Grande Valley Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "RGV",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": "Extended Range Sentry Tower"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.89804,
+          26.366012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower419",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Rio Grande Valley Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "RGV",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.84799402,
+          26.36897782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower421",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Del Rio Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "DRT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": "Coordinates approximate."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.189706,
+          29.663129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower423",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Big Bend Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "BBT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.2018339,
+          30.02723387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower424",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "California",
+        "Sector": "San Diego Sector",
+        "State of Sector": "California",
+        "Sector Acronym": "SDC",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.2602634,
+          32.64550861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower428",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "California",
+        "Sector": "El Centro Sector",
+        "State of Sector": "California",
+        "Sector Acronym": "ELC",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.9767741,
+          32.71300239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower429",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "California",
+        "Sector": "El Centro Sector",
+        "State of Sector": "California",
+        "Sector Acronym": "ELC",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.7981116,
+          32.65427681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower432",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "California",
+        "Sector": "El Centro Sector",
+        "State of Sector": "California",
+        "Sector Acronym": "ELC",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.720164,
+          32.67343546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower433",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "California",
+        "Sector": "El Centro Sector",
+        "State of Sector": "California",
+        "Sector Acronym": "ELC",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.2632407,
+          32.70507334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower438",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "California",
+        "Sector": "San Diego Sector",
+        "State of Sector": "California",
+        "Sector Acronym": "SDC",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.8864516,
+          32.64026702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower440",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "California",
+        "Sector": "El Centro Sector",
+        "State of Sector": "California",
+        "Sector Acronym": "ELC",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.8800428,
+          32.64653547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower441",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "California",
+        "Sector": "El Centro Sector",
+        "State of Sector": "California",
+        "Sector Acronym": "ELC",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.0910869,
+          32.70495154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower442",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "California",
+        "Sector": "El Centro Sector",
+        "State of Sector": "California",
+        "Sector Acronym": "ELC",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.0387305,
+          32.70354653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower448",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Rio Grande Valley Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "RGV",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.28345748,
+          25.96031813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower450",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Del Rio Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "DRT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.3897836,
+          29.7470131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower451",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Laredo Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "LRT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.842749,
+          27.7849335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower452",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Rio Grande Valley Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "RGV",
+        "Station/AOR": "Rio Grande City Station",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.711401,
+          26.27495955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower458",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "California",
+        "Sector": "San Diego Sector",
+        "State of Sector": "California",
+        "Sector Acronym": "SDC",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.103361,
+          32.541944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower470",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "New Mexico",
+        "Sector": "El Paso Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "ELC",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": "Visually confirmed by Battalion Search and Rescue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.0525593,
+          31.8153752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower471",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "New Mexico",
+        "Sector": "El Paso Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "ELC",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": "Visually confirmed by Battalion Search and Rescue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.9544194,
+          31.85549734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower472",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Big Bend Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "BBT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.2629071,
+          29.64759649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower473",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "New Mexico",
+        "Sector": "El Paso Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": "Visually confirmed by Battalion Search and Rescue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.6735904,
+          31.79025902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower474",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "New Mexico",
+        "Sector": "El Paso Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": "Visually confirmed by Battalion Search and Rescue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.6884112,
+          31.80153963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower475",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "New Mexico",
+        "Sector": "El Paso Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.698201,
+          31.789743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower479",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "New Mexico",
+        "Sector": "El Paso Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "ELC",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": "Visually confirmed by Battalion Search and Rescue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.7384964,
+          31.81128079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower481",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "New Mexico",
+        "Sector": "El Paso Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "ELC",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": "Visually confirmed by Battalion Search and Rescue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.7697059,
+          31.79547115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower482",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "New Mexico",
+        "Sector": "El Paso Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "ELC",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": "Visually confirmed by Battalion Search and Rescue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.73732,
+          31.84935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower485",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Del Rio Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "DRT",
+        "Station/AOR": "Del Rio Station",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.5947581,
+          28.89960893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower489",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "New Mexico",
+        "Sector": "El Paso Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "EPT",
+        "Station/AOR": "Santa Teresa Station",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.5560797,
+          31.78894561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower490",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "California",
+        "Sector": "El Centro Sector",
+        "State of Sector": "California",
+        "Sector Acronym": "ELC",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.126742,
+          32.704718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower492",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Big Bend Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "BBT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.3765143,
+          29.57813931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower493",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Big Bend Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "BBT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.4845307,
+          29.6494888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower494",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Big Bend Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "BBT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.5117296,
+          29.68504474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower497",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "",
+        "State of Sector": "Texas",
+        "Sector Acronym": "",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.7364339,
+          29.24986584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower499",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "California",
+        "Sector": "San Diego Sector",
+        "State of Sector": "California",
+        "Sector Acronym": "SDC",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": "Visually confirmed by local resident. Installed October 2024."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.1071658,
+          32.63958137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower500",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Del Rio Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "DRT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.382305,
+          28.60185958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower503",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Social Club",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Del Rio Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "DRT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": "Note: CBP post indicated this was a Big Bend Sector but that seems to be incorrect."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.3271325,
+          28.52154199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower505",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Del Rio Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "DRT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.3488542,
+          28.4746415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower506",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Laredo Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "LRT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.8838846,
+          27.8570645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower507",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Del Rio Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "DRT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.3735584,
+          28.54053245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower508",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Big Bend Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "BBT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.3413871,
+          29.5478124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower509",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Big Bend Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "BBT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.5881644,
+          30.60959649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower510",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Big Bend Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "BBT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.68768,
+          30.68938318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower511",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Big Bend Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "BBT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.0844364,
+          29.97407856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower512",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Big Bend Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "BBT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.1225044,
+          29.98782935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower513",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Big Bend Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "BBT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.5472771,
+          30.55376824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower514",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Big Bend Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "BBT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.5292254,
+          30.51554764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower515",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Big Bend Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "BBT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.7471314,
+          30.75075563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower516",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Big Bend Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "BBT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.1569101,
+          31.0664781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower517",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Del Rio Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "DRT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.8846691,
+          29.33233873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower518",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Big Bend Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "BBT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.0675596,
+          31.02617494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower519",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Arizona",
+        "Sector": "Tucson Sector",
+        "State of Sector": "Arizona",
+        "Sector Acronym": "TCA",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": "Visually confirmed by Battalion Search and Rescue. Coordinates approximate."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.98786,
+          32.44421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower520",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Arizona",
+        "Sector": "Tucson Sector",
+        "State of Sector": "Arizona",
+        "Sector Acronym": "TCA",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": "Visually confirmed by Battalion Search and Rescue. Coordinates approximate."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.96973,
+          32.41452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower521",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Arizona",
+        "Sector": "Tucson Sector",
+        "State of Sector": "Arizona",
+        "Sector Acronym": "TCA",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": "Visually confirmed by Battalion Search and Rescue. Coordinates approximate."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.93132,
+          32.44104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower522",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Arizona",
+        "Sector": "Tucson Sector",
+        "State of Sector": "Arizona",
+        "Sector Acronym": "TCA",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": "Visually confirmed by Battalion Search and Rescue. Coordinates approximate."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.91611,
+          32.46546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower523",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Arizona",
+        "Sector": "Tucson Sector",
+        "State of Sector": "Arizona",
+        "Sector Acronym": "TCA",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": "Visually confirmed by Battalion Search and Rescue. Coordinates approximate."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.84908,
+          32.49098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower524",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Arizona",
+        "Sector": "Tucson Sector",
+        "State of Sector": "Arizona",
+        "Sector Acronym": "TCA",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": "Visually confirmed by Battalion Search and Rescue. Coordinates approximate."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.79723,
+          32.49131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower525",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Arizona",
+        "Sector": "Tucson Sector",
+        "State of Sector": "Arizona",
+        "Sector Acronym": "TCA",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": "Visually confirmed by Battalion Search and Rescue. Coordinates approximate."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.74853,
+          32.49173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower526",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Arizona",
+        "Sector": "Tucson Sector",
+        "State of Sector": "Arizona",
+        "Sector Acronym": "TCA",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": "Visually confirmed by Battalion Search and Rescue. Coordinates approximate."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.69777,
+          32.49196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower527",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Arizona",
+        "Sector": "Tucson Sector",
+        "State of Sector": "Arizona",
+        "Sector Acronym": "TCA",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": "Visually confirmed by Battalion Search and Rescue. Coordinates approximate."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.64662,
+          32.49202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower528",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Big Bend Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "BBT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.243429,
+          31.10273849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower529",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Big Bend Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "BBT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.3317325,
+          31.14453303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower531",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Big Bend Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "BBT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.7705086,
+          30.82193978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower532",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Big Bend Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "BBT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.3559265,
+          29.69078361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower534",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Big Bend Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "BBT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": "Confirmed by photographer and video"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.5461172,
+          29.74443595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower535",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "El Paso Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "EPT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.9868726,
+          31.38882415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower536",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "El Paso Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "EPT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.9514645,
+          31.37339643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower537",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "El Paso Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "EPT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.9198515,
+          31.34024182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower538",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Big Bend Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "BBT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.9429623,
+          30.95153926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower539",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Big Bend Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "BBT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.0213215,
+          31.00972551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower540",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Big Bend Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "BBT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.1055954,
+          31.05476511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower541",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Big Bend Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "BBT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.194209,
+          31.09719479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower542",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Big Bend Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "BBT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.7107226,
+          30.72138625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower543",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Big Bend Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "BBT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.7643358,
+          30.77929196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower546",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Big Bend Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "BBT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.0630827,
+          30.22351171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower548",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Big Bend Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "BBT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.8964397,
+          30.93131997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower549",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Big Bend Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "BBT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.2822547,
+          31.12839184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower550",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "New Mexico",
+        "Sector": "El Paso Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "EPT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": "Coordinates are approximate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.6215826,
+          31.81763899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower551",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "El Paso Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "EPT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": "Coordinates are approximate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.3070632,
+          31.62987777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower552",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "El Paso Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "EPT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": "Coordinates are approximate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.2915069,
+          31.60060931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower555",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Big Bend Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "BBT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": "Coordinates approximate. Confirmed by reporter on ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.539234,
+          29.738884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower556",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Big Bend Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "BBT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": "Coordinates approximate. Confirmed by reporter on ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.6014186,
+          29.83413003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower557",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "El Paso Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "EPT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.8793553,
+          31.82666521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower560",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Arizona",
+        "Sector": "Tucson Sector",
+        "State of Sector": "Arizona",
+        "Sector Acronym": "TCA",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": "Confirmed on ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.8385354,
+          31.36222872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower562",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Tucson Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "TCA",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.7059656,
+          29.21267721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower564",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "",
+        "State of Sector": "Texas",
+        "Sector Acronym": "",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": "Extended Range Sentry Tower"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.40596446,
+          26.18429758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower565",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "",
+        "State of Sector": "Texas",
+        "Sector Acronym": "",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": "Coordinates approximate.  Confirmed by reporter on ground."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.6482019,
+          31.13444786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower566",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "New Mexico",
+        "Sector": "",
+        "State of Sector": "Texas",
+        "Sector Acronym": "EPT",
+        "Station/AOR": "Santa Teresa Station",
+        "Vendor": "Anduril",
+        "Notes": "Coordinates approximate.  Confirmed by Battalion Search and Rescue on ground."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.011997,
+          31.803304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower567",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "New Mexico",
+        "Sector": "",
+        "State of Sector": "Texas",
+        "Sector Acronym": "EPT",
+        "Station/AOR": "Santa Teresa Station",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.6039362,
+          31.79424182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower568",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "New Mexico",
+        "Sector": "",
+        "State of Sector": "Texas",
+        "Sector Acronym": "EPT",
+        "Station/AOR": "Santa Teresa Station",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.6135885,
+          31.80337625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower569",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "",
+        "State of Sector": "Texas",
+        "Sector Acronym": "EPT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": "Confirmed on the ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.0125193,
+          31.3989444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower570",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Big Bend Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "BBT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.8537354,
+          30.95859477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower571",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Arizona",
+        "Sector": "Tucson Sector",
+        "State of Sector": "Arizona",
+        "Sector Acronym": "TCA",
+        "Station/AOR": "Douglas Station",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.474088,
+          31.440469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower572",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "New Mexico",
+        "Sector": "El Paso Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "EPT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.0472788,
+          31.81156671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower574",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Big Bend Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "BBT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.0449968,
+          29.94437029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower575",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Big Bend Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "BBT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.8245248,
+          29.88319756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower576",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Big Bend Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "BBT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.9203838,
+          29.8865536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower577",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "Texas",
+        "Sector": "Big Bend Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "BBT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.8582023,
+          29.87893002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower578",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "California",
+        "Sector": "San Diego Sector",
+        "State of Sector": "California",
+        "Sector Acronym": "SDC",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": "Next to legacy installation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0040809,
+          32.54659711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower579",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "New Mexico",
+        "Sector": "El Paso Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "EPT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.9182192,
+          31.90707175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower580",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "New Mexico",
+        "Sector": "El Paso Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "EPT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.9566148,
+          31.91979981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower581",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "New Mexico",
+        "Sector": "El Paso Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "EPT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.9707975,
+          31.93382539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower582",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "New Mexico",
+        "Sector": "El Paso Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "EPT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.0182572,
+          31.83378677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "Tower583",
+        "Surveillance Type": "Tower",
+        "Tower Name": "Unknown",
+        "Current Tower Type": "Autonomous Surveillance Tower (AST)",
+        "Tower Subcategory": "",
+        "State of Tower": "New Mexico",
+        "Sector": "El Paso Sector",
+        "State of Sector": "Texas",
+        "Sector Acronym": "EPT",
+        "Station/AOR": "",
+        "Vendor": "Anduril",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.9707818,
+          31.9338371
+        ]
+      }
+    }
+  ]
+}

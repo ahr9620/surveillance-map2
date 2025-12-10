@@ -1,0 +1,257 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "TARS01",
+        "Type": "Tethered Aerostat Radar System",
+        "Acronym": "TARS",
+        "Reg Number": "N801XR",
+        "Note": "",
+        "Name": "Yuma Aerostat Radar Site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.24331,
+          33.01589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "TARS02",
+        "Type": "Tethered Aerostat Radar System",
+        "Acronym": "TARS",
+        "Reg Number": "N802XR",
+        "Note": "",
+        "Name": "Fort Huachuca Aerostat Radar Site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.29555,
+          31.48581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "TARS03",
+        "Type": "Tethered Aerostat Radar System",
+        "Acronym": "TARS",
+        "Reg Number": "N803XR",
+        "Note": "",
+        "Name": "Deming Aerostat Radar Site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.86416,
+          32.02657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "TARS04",
+        "Type": "Tethered Aerostat Radar System",
+        "Acronym": "TARS",
+        "Reg Number": "N804XR",
+        "Note": "",
+        "Name": "Marfa Aerostat Radar Site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.320694,
+          30.434472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "TARS06",
+        "Type": "Tethered Aerostat Radar System",
+        "Acronym": "TARS",
+        "Reg Number": "N806XR",
+        "Note": "",
+        "Name": "Rio Grande City Aerostat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.81714963,
+          26.57254439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "TAS01",
+        "Type": "Tactical Aerostat System",
+        "Acronym": "TAS",
+        "Reg Number": "",
+        "Note": "",
+        "Name": "Sullivan City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.57982762,
+          26.27157658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "TAS02",
+        "Type": "Tactical Aerostat System",
+        "Acronym": "TAS",
+        "Reg Number": "",
+        "Note": "",
+        "Name": "Peñitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.46096396,
+          26.24274096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "TAS03",
+        "Type": "Tactical Aerostat System",
+        "Acronym": "TAS",
+        "Reg Number": "",
+        "Note": "",
+        "Name": "Rio Grande City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.76216172,
+          26.34584987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "TAS04",
+        "Type": "Tactical Aerostat System",
+        "Acronym": "TAS",
+        "Reg Number": "",
+        "Note": "",
+        "Name": "Roma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.04928561,
+          26.46960209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "TMSS01",
+        "Type": "Tactical Maritime Surveillance System",
+        "Acronym": "TMSS",
+        "Reg Number": "",
+        "Note": "This aerostat broke loose in early March 2025 and has not yet been relaunched. A TMSS is a tactical class aerostat that combines radar and video.",
+        "Name": "South San Pedro Island"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1633314,
+          26.07194008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "TAS05",
+        "Type": "Tactical Aerostat System",
+        "Acronym": "TAS",
+        "Reg Number": "",
+        "Note": "",
+        "Name": "Columbus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.051611,
+          31.81519306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "TAS06",
+        "Type": "Tactical Aerostat System",
+        "Acronym": "TAS",
+        "Reg Number": "",
+        "Note": "",
+        "Name": "Santa Teresa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.7024025,
+          31.819008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "TAS07",
+        "Type": "Tactical Aerostat System",
+        "Acronym": "TAS",
+        "Reg Number": "",
+        "Note": "Confirmed via Geolocation",
+        "Name": "Helen Gardner Aerostat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.3566777,
+          30.08695099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ref": "TAS08",
+        "Type": "Tactical Aerostat System",
+        "Acronym": "TAS",
+        "Reg Number": "",
+        "Note": "Confirmed by local worked",
+        "Name": "Sasabe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.4558457,
+          31.81650321
+        ]
+      }
+    }
+  ]
+}
