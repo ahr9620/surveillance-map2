@@ -188,8 +188,6 @@ fetch('IST.geojson')
         });
 
 
-   
-
 
         // add IST features to the map
         geojson.features.forEach((feat) => {
