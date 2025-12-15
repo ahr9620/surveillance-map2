@@ -19,60 +19,32 @@
 <body>
 
     <div class="container">
-        <div class="left">
-            <div id="map"></div>
-            <div id="asset12" class="map-asset">
-                <img src="key/Asset 12@2x.png" srcset="key/Asset 12@2x.png 2x" alt="Asset 12" />
-            </div>
-        </div>
-        <div class="right" id="sidebar">
-            <h1 class="title">Border Surveillance Map</h1>
+        <div class="left-panel" id="map">
+            <img src="key/Asset 12@2x.png" alt="Map Key" class="map-key" />
 
-            <div class="image-grid panel" id="image-grid" aria-label="Gallery grid">
-                <figure class="grid-figure grid-a">
-                    <img src="images/AERO.png" alt="AERO" class="grid-image" />
-                    <figcaption>Aerostat — 236 km</figcaption>
-                </figure>
-                <figure class="grid-figure grid-b">
-                    <img src="images/IST1.png" alt="IST" class="grid-image" />
-                    <figcaption>IST — 30 km</figcaption>
-                </figure>
-                <figure class="grid-figure grid-c">
-                    <img src="images/SENT.png" alt="SENT" class="grid-image" />
-                    <figcaption>Anruil Sentry — 3 km</figcaption>
-                </figure>
-                <div class="grid-figure grid-d">
-                    <div class="grid-info">
-                        <h3>Notes</h3>
-                        <p>This platform collects user submitted sightings of border related technologies. By
-                            crowdsourcing data collection, we can document a wider area and build a more complete
-                            picture of surveillance deployments. The map displays two main types of information: markers
-                            indicating different device or camera types, and an additional layer showing their estimated
-                            coverage ranges. Use the map to explore known deployments, submit new sightings, and help
-                            maintain an up to date shared dataset.</p>
-                    </div>
-                </div>
+        </div>
+        <div class="right-panel">
+            <h1 class="title">Border Surveillance Map</h1>
+            <hr />
+            <h2 class="project-desc">A collaborative map to crowdsource data on new border technologies appearing in our
+                communities.</h2>
+            <hr />
+            <p>This platform collects user submitted sightings of border related technologies. By
+                crowdsourcing data collection, we can document a wider area and build a more complete
+                picture of surveillance deployments. The map displays two main types of information: markers
+                indicating different device or camera types, and an additional layer showing their estimated
+                coverage ranges. Use the map to explore known deployments, submit new sightings, and help
+                maintain an up to date shared dataset.</p>
+            
+
+                <!-- image row -->
+            <div class="simple-image-row">
+                <img src="images/AERO.png" alt="AERO" />
+                <img src="images/IST1.png" alt="IST" />
+                <img src="images/SENT.png" alt="SENT" />
             </div>
-            <p class="project-desc">A collaborative map to crowdsource data on new border technologies appearing in our
-                communities.</p>
         </div>
     </div>
-
-    <!-- popup template for submit form -->
-    <template id="popup-template">
-        <div class="popup-submit">
-            <div class="popup-title">Submit new camera</div>
-            <div class="popup-coords">Lat: <span class="lat"></span></div>
-            <div class="popup-coords">Lng: <span class="lng"></span></div>
-            <div class="popup-actions">
-                <label class="attach-label">
-                    <input type="file" accept="image/*" id="popup-attach" class="popup-attach" />
-                    <span class="attach-text btn">Attach</span>
-                </label>
-                <button id="popup-finalize" class="btn">Submit</button>
-            </div>
-        </div>
-    </template>
 
     <script src="https://cdn.jsdelivr.net/npm/@turf/turf@7/turf.min.js"></script>
     <script src="script.js"></script>

@@ -1,6 +1,6 @@
 const mapDiv = document.getElementById('map');
 if (mapDiv) {
-    mapDiv.style.height = '100vh';
+    mapDiv.style.height = '100%';
 }
 
 
@@ -10,7 +10,6 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '&copy; OpenStreetMap contributors'
 }).addTo(map);
 
-console.log('map initialized, fetching base data...');
 
 
 
@@ -50,7 +49,7 @@ fetch('aerostat.geojson')
         });
     });
 
-// ugh this wouldnt work so i had to use AI. will credit in attributions
+// setting up an array to load up user submitted coordinates in
 fetch('/api/cameras')
     .then((r) => r.json())
     .then((cams) => {
@@ -59,7 +58,6 @@ fetch('/api/cameras')
             console.warn('unexpected cameras payload, skipping render');
             return;
         }
-        const camBufferMiles = 1; // small buffer for user-submitted cameras
         const camBufferStyle = { color: '#ff3300ff', weight: 1, fillColor: '#ff590040', fillOpacity: 0.25 };
         const camIcon = L.icon({ iconUrl: 'icons/unconfirmed.png', iconSize: [10, 10] });
 
@@ -116,7 +114,7 @@ map.on('click', function (e) {
             const feat = { type: 'Feature', properties: { source: 'user', filename: attachedName }, geometry: { type: 'Point', coordinates: [lng, lat] } };
             const collection = { type: 'FeatureCollection', features: [feat] };
 
-            // POST to server
+            // POST
             fetch('/api/cameras', {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/geo+json' },

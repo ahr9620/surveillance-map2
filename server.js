@@ -21,7 +21,6 @@ async function start() {
   await client.connect();
   const db = client.db();
   camerasColl = db.collection('cameras');
-  console.log('Connected to MongoDB');
 
   app.post('/api/cameras', async (req, res) => {
     try {
